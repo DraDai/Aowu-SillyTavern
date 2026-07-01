@@ -6,7 +6,7 @@
 2. Recommended editor: Visual Studio Code.
 3. You can also use GitHub Codespaces which sets up everything for you.
 
-## Getting the code ready
+## Getting the code ready hh
 
 1. Register a GitHub account.
 2. Fork this repository under your account.
